@@ -20,8 +20,5 @@
 ## 📂 Projects
 - [code-warmup](https://github.com/RamDk1/code-warmup) — Practice exercises in Python, Java, and C
 
-## 📊 GitHub Stats
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamDk1&show_icons=true&theme=default)
-
 ## 📫 Contact
-- LinkedIn: (https://www.linkedin.com/in/ramses-rodriguez-barroso/)
+- LinkedIn: [Ramses Rodriguez Barroso](https://www.linkedin.com/in/ramses-rodriguez-barroso/)
